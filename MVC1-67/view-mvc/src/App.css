@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.column-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+input {
+  margin-top: 20px;
+  background-color: white;
+  border-color: black;
+  height: 30%;
+  color: black;
+}
+
+button {
+  width: 100px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background-color: burlywood;
+}
+
+.cow-list {
+  color: black;
+}
+
+.milk-list {
+  color: black;
+}
